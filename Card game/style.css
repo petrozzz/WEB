@@ -1,0 +1,19 @@
+body{
+	background-color: #F5F5F5;
+	margin: 50px 300px 0px 300px;
+}
+div{
+	display: inline-block;
+	background-color: #E0E0E0;
+	border: none 1px black;	
+	margin: 5px 0px;
+	height: 38px;
+	width: 51px;
+	text-align: center;
+	padding-top: 2px;
+	font-family: Leelawadee UI;
+	font-size: 22px;
+}
+p{
+	margin: 0px 0px 5px 0px;
+}
