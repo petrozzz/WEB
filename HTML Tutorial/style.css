@@ -1,0 +1,21 @@
+body{
+	background-color: #F5F5F5;
+	margin: 0px 100px 0px 100px;
+	padding: 5px 10px 30px 10px;
+	font-family: Verdana;
+}
+
+span{
+	background-color: #E7E7E7;
+	color: #902A43;
+}
+
+code{
+	background-color: #E7E7E7;
+	font-size: 14px;
+}
+
+div{
+	background-color: #E7E7E7;
+	padding: 10px 20px;
+}
