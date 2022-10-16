@@ -1,0 +1,41 @@
+body{
+	background-color: #F5F5F5;
+	margin: 50px 300px 0px 300px;
+	display: inline-block;
+	/*width: 800px;*/
+	font-family: Verdana;	
+}
+
+h1{
+	text-align: center;
+	font-size: 18px;
+}
+
+.Card{	
+	display: inline-block;
+	width: 132px;
+	height: 155px;
+	border: solid 1px #CECECE;
+	border-radius: 30px;
+	margin: 5px;		
+}
+
+.Name{
+	margin: 1px;
+	text-align: center;
+	font-weight: bold;
+	height: 20px;
+	/*border: solid 1px #000000;*/
+}
+
+.Pic{
+	margin: 1px;
+	height: 128px;
+	width: 128px;
+	/*border: solid 1px #000000;*/
+}
+
+img{
+	width:  100px;
+	margin: 11px 7px 2px 17px;
+}
