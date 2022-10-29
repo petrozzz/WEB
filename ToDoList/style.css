@@ -50,12 +50,16 @@ h1{
 	background-color: #ADD8E6;	
 }
 
-.C2, .C5, .C11{
-	background-image: url(image/checked_16.png);
-	background-color: #E2E2E2;	
-}
-
 .x{
 	margin-left: 5px;
-	color:  #8B0000;
+	color:  #8B0000;		
+}
+
+.C2, .C5, .C11 {
+	background-image: url(image/checked_16.png);
+	background-color: #E2E2E2;			
+}
+
+.C2 .t, .C5 .t, .C11 .t {
+	text-decoration: line-through;
 }
