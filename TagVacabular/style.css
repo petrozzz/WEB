@@ -1,0 +1,32 @@
+.main_container{
+	background-color: #F5F5F5;
+	margin: 10px 300px 10px 300px;
+	font-family: 'Segoe UI';
+	padding: 10px;
+}
+
+
+dt{
+	font-weight: 700;
+}
+
+
+p{
+	margin: 0px;
+}
+
+.syn{
+	color: #280E99;
+}
+
+q{
+	color: gray;
+}
+
+.part_speech{
+	font-style: italic;
+}
+
+div{
+	margin: 5px 0px;
+}
